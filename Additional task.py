@@ -8,6 +8,5 @@ sred_grades = {
     student_grades[1][0]: sum(student_grades[1][1]) / len(student_grades[1][1]),
     student_grades[2][0]: sum(student_grades[2][1]) / len(student_grades[2][1]),
     student_grades[3][0]: sum(student_grades[3][1]) / len(student_grades[3][1]),
-    student_grades[4][0]: sum(student_grades[4][1]) / len(student_grades[4][1]),
-}
+    student_grades[4][0]: sum(student_grades[4][1]) / len(student_grades[4][1])}
 print(sred_grades)
